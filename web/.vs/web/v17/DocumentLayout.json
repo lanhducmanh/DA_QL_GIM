@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\manh\\manh\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\sp_api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:sp_api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SP_API.aspx.cs",
+              "DocumentMoniker": "D:\\manh\\manh\\web\\SP_API.aspx.cs",
+              "RelativeDocumentMoniker": "SP_API.aspx.cs",
+              "ToolTip": "D:\\manh\\manh\\web\\SP_API.aspx.cs",
+              "RelativeToolTip": "SP_API.aspx.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:13:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\manh\\manh\\web\\JavaScript.js",
+              "RelativeDocumentMoniker": "JavaScript.js",
+              "ToolTip": "D:\\manh\\manh\\web\\JavaScript.js",
+              "RelativeToolTip": "JavaScript.js",
+              "ViewState": "AQIAANUAAAAAAAAAAAAowFsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-26T03:39:34.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\manh\\manh\\web\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "StyleSheet1.css",
+              "ToolTip": "D:\\manh\\manh\\web\\StyleSheet1.css",
+              "RelativeToolTip": "StyleSheet1.css",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T03:39:28.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\manh\\manh\\web\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\manh\\manh\\web\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-26T03:39:08.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
