@@ -4,9 +4,9 @@ E:\C#\BTL_test\lan\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
 E:\C#\BTL_test\lan\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
 E:\C#\BTL_test\lan\Lib\obj\Debug\Lib.dll
 E:\C#\BTL_test\lan\Lib\obj\Debug\Lib.pdb
-D:\manh\manh\Lib\bin\Debug\Lib.dll
-D:\manh\manh\Lib\bin\Debug\Lib.pdb
-D:\manh\manh\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
-D:\manh\manh\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
-D:\manh\manh\Lib\obj\Debug\Lib.dll
-D:\manh\manh\Lib\obj\Debug\Lib.pdb
+E:\C#\BTL_test\manh\Lib\bin\Debug\Lib.dll
+E:\C#\BTL_test\manh\Lib\bin\Debug\Lib.pdb
+E:\C#\BTL_test\manh\Lib\obj\Debug\Lib.csproj.AssemblyReference.cache
+E:\C#\BTL_test\manh\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+E:\C#\BTL_test\manh\Lib\obj\Debug\Lib.dll
+E:\C#\BTL_test\manh\Lib\obj\Debug\Lib.pdb

@@ -39,6 +39,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net20\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -49,6 +52,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -57,13 +66,26 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\bootstrap\css\bootstrap.min.css" />
+    <Content Include="assets\bootstrap\js\bootstrap.min.js" />
+    <Content Include="assets\fonts\font-awesome.min.css" />
+    <Content Include="assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\img\downloads-bg.jpg" />
+    <Content Include="assets\img\illustrations\login.svg" />
+    <Content Include="assets\img\illustrations\register.svg" />
+    <Content Include="assets\img\intro-bg.jpg" />
+    <Content Include="assets\js\grayscale.js" />
+    <Content Include="assets\js\startup-modern.js" />
     <Content Include="index.html" />
     <Content Include="JavaScript.js" />
+    <Content Include="JavaScript\crypto-js.js" />
     <Content Include="JavaScript\jquery-confirm.min.css" />
     <Content Include="JavaScript\jquery-confirm.min.js" />
     <Content Include="JavaScript\jquery-ui.js" />
     <Content Include="JavaScript\jquery-ui.min.js" />
     <Content Include="JavaScript\jquery.min.js" />
+    <Content Include="login.html" />
+    <Content Include="signup.html" />
     <Content Include="SP_API.aspx" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />

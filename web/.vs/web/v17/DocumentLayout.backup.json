@@ -1,22 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\manh\\manh\\web\\",
+  "WorkspaceRootPath": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\sp_api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|d:\\do_an_aspx\\da_ql_gim\\web\\sp_api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:sp_api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\Do_An_ASPX\\DA_QL_GIM\\web\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\Do_An_ASPX\\DA_QL_GIM\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\Do_An_ASPX\\DA_QL_GIM\\web\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\Do_An_ASPX\\DA_QL_GIM\\web\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|D:\\manh\\manh\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{037CE085-34E1-4771-88A1-0684FAD03A56}|web.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C#\\BTL_test\\manh\\Lib\\Read_DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,52 +49,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\JavaScript.js",
+              "RelativeDocumentMoniker": "JavaScript.js",
+              "ToolTip": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\JavaScript.js",
+              "RelativeToolTip": "JavaScript.js",
+              "ViewState": "AQIAAHAFAAAAAAAAAAAAAJgFAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-26T03:39:34.829Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SP_API.aspx.cs",
-              "DocumentMoniker": "D:\\manh\\manh\\web\\SP_API.aspx.cs",
+              "DocumentMoniker": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\SP_API.aspx.cs",
               "RelativeDocumentMoniker": "SP_API.aspx.cs",
-              "ToolTip": "D:\\manh\\manh\\web\\SP_API.aspx.cs*",
-              "RelativeToolTip": "SP_API.aspx.cs*",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\SP_API.aspx.cs",
+              "RelativeToolTip": "SP_API.aspx.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAwwFoBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T05:13:26.336Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JavaScript.js",
-              "DocumentMoniker": "D:\\manh\\manh\\web\\JavaScript.js",
-              "RelativeDocumentMoniker": "JavaScript.js",
-              "ToolTip": "D:\\manh\\manh\\web\\JavaScript.js",
-              "RelativeToolTip": "JavaScript.js",
-              "ViewState": "AQIAANUAAAAAAAAAAAAowFsAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-26T03:39:34.829Z"
+              "Title": "login.html",
+              "DocumentMoniker": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\login.html",
+              "RelativeDocumentMoniker": "login.html",
+              "ToolTip": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\login.html",
+              "RelativeToolTip": "login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T18:13:11.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "signup.html",
+              "DocumentMoniker": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\signup.html",
+              "RelativeDocumentMoniker": "signup.html",
+              "ToolTip": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\signup.html",
+              "RelativeToolTip": "signup.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T18:10:31.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StyleSheet1.css",
-              "DocumentMoniker": "D:\\manh\\manh\\web\\StyleSheet1.css",
-              "RelativeDocumentMoniker": "StyleSheet1.css",
-              "ToolTip": "D:\\manh\\manh\\web\\StyleSheet1.css",
-              "RelativeToolTip": "StyleSheet1.css",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-26T03:39:28.071Z"
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\Do_An_ASPX\\DA_QL_GIM\\web\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-23T18:03:14.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\manh\\manh\\web\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "D:\\manh\\manh\\web\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-26T03:39:08.539Z"
+              "DocumentIndex": 5,
+              "Title": "Read_DB.cs",
+              "DocumentMoniker": "E:\\C#\\BTL_test\\manh\\Lib\\Read_DB.cs",
+              "ToolTip": "E:\\C#\\BTL_test\\manh\\Lib\\Read_DB.cs",
+              "ViewState": "AQIAALsCAAAAAAAAAADwv+cCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T05:44:35.799Z"
             }
           ]
         }
